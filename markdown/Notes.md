@@ -5,3 +5,4 @@
 [] - Finishing the about me page 
 [] - Fixing the pictures of the different applications with changing to black effect 
 [] - Taking away the small circle with default picture in it with icon
+[] - creating links for the pictures of the applications 
