@@ -7,3 +7,4 @@
 [] - Taking away the small circle with default picture in it with icon
 [] - creating links for the pictures of the applications 
 [] - getting rid of the the inactive links in the toolbar / navbar 
+[] - Figuring out why the GSAP effect is not working on the github page site 
