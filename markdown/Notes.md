@@ -9,3 +9,4 @@
 [] - getting rid of the the inactive links in the toolbar / navbar 
 [] - Figuring out why the GSAP effect is not working on the github page site 
 [] - Making sure that the footer on every page is set and fixed 
+[] - The contact me page should be linked on every page from multiple sections 
