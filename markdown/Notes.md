@@ -14,3 +14,4 @@
 [] - Emphasis that I use the MERN suite and D3 for data visualization.
 [] - Also emphasize on the fact that I also know how to use Three.js and GSAP within react. 
 [] - Try to elaborate on what my goals are and what I want to accomplish as a developer. 
+[] - Make sure the color and design are also okay for "deployment"
