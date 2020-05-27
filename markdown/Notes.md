@@ -28,5 +28,5 @@
 [] - Find a way to integrate all of my libraries together to work alongside each other. 
 [] - Start finding ways to deploy it if possible
 [] - Find a good domain website to buy 
-[] - Figure out a way to connect my portfolio website to the domain name
 [] - Figure out a good name for the domain name. Preferably one with my name. 
+[] - Figure out a way to connect my portfolio website to the domain name
