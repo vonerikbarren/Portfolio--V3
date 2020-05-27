@@ -20,3 +20,4 @@
 ## Section 2 - Post Section 1 - additional features 
 
 [] - Building the effect that allows me to transition 
+[] - Figure out any regular bugs I might run into
