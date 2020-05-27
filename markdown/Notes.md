@@ -22,4 +22,4 @@
 [] - Building the effect that allows me to transition 
 [] - Figure out any regular bugs I might run into
 [] - Work on the infochart that has a dataset about my skillset 
-[] - 
+[] - For the info-graph, have circle charts, bar charts, pie charts, and line charts etc.
