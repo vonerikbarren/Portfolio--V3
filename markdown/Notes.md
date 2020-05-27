@@ -17,5 +17,6 @@
 [] - Make sure the color and design are also okay for "deployment"
 
 ----------------------------------------------------------------
+## Section 2 - Post Section 1 - additional features 
 
 [] - Building the effect that allows me to transition 
