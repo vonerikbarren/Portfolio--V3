@@ -25,3 +25,4 @@
 [] - For the info-graph, have circle charts, bar charts, pie charts, and line charts etc.
 [] - Plan the styling for the panel with the infochart in terms of the design aspect of it
 [] - Find a way to integrate Three.js into my portfolio to show my skill level with it. 
+[] - 
