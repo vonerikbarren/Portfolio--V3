@@ -28,3 +28,4 @@
 [] - Find a way to integrate all of my libraries together to work alongside each other. 
 [] - Start finding ways to deploy it if possible
 [] - Find a good domain website to buy 
+[] - 
