@@ -35,6 +35,7 @@
 
 ## Section 3 - Deciding how to move forward tomorrow 
 
+[] - 
 
 
 
