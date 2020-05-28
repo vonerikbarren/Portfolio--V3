@@ -35,7 +35,7 @@
 
 ## Section 3 - Deciding how to move forward tomorrow 
 
-[] - 
+[] - Restarting computer so that RAM is nice and fresh
 
 
 
