@@ -37,6 +37,7 @@
 
 [] - Restarting computer so that RAM is nice and fresh
 [] - Create a designated desktop for code and one for iTerm2
+[] - 
 
 
 
