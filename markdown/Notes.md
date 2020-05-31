@@ -50,4 +50,5 @@
 [] - We also need to think and / or get actual quotes that we can use 
 [] - The styling of the actual comments should be planned before hand 
 [] - We can use either bootstrap styling or inline styling 
+[] - 
 
