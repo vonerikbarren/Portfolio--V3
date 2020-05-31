@@ -47,4 +47,5 @@
 
 [] - The comment section should have a I believe 3 x 5 comments 
 [] - We need to get the pictures of several people from class 
+[] - 
 
