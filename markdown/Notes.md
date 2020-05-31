@@ -49,4 +49,5 @@
 [] - We need to get the pictures of several people from class 
 [] - We also need to think and / or get actual quotes that we can use 
 [] - The styling of the actual comments should be planned before hand 
+[] - 
 
