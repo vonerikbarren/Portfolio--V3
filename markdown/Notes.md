@@ -39,6 +39,8 @@
 [] - Create a designated desktop for code and one for iTerm2
 [] - Take the directory and open vscode 
 [] - Start working on Section 1 information 
-[] - 
+[] - Working on the quotes 
+
+--------------------------------------------------------------------
 
 
