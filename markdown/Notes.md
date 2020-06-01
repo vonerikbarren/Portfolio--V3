@@ -52,3 +52,7 @@
 [] - We can use either bootstrap styling or inline styling 
 [] - Make sure they are credible quotes 
 
+--------------------------------------------------------
+
+## Section 5 - The InfoGraph
+
