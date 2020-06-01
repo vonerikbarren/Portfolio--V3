@@ -58,4 +58,5 @@
 
 [] - The infograph will just be an accurate assessemnt of me in graph format
 [] - The different things we will measure is time, libraries, skills, favorite types of applications, skillsets
+[] - 
 
