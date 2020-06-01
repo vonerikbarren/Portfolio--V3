@@ -59,5 +59,5 @@
 [] - The infograph will just be an accurate assessemnt of me in graph format
 [] - The different things we will measure is time, libraries, skills, favorite types of applications, skillsets
 [] - With the skillsets, they should be dounut or pie charts and the categories must be strict
-[] - 
+[] - We can use barcharts and line charts for time vs an aspect or variable for better words 
 
