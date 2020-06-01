@@ -56,5 +56,5 @@
 
 ## Section 5 - The InfoGraph
 
-[] - 
+[] - The infograph will just be an accurate assessemnt of me in graph format 
 
