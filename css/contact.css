@@ -1,6 +1,8 @@
 #demo {
-  -webkit-box-shadow: 5px 5px 15px 5px #000000; 
-  box-shadow: 5px 5px 15px 5px #000000;
+  /* -webkit-box-shadow: 5px 5px 15px 5px #000000; 
+  box-shadow: 5px 5px 15px 5px #000000; */
+  border: 0px solid #1C6EA4;
+border-radius: 40px 40px 40px 40px;
   }
 
   #dema {
