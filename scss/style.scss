@@ -12,19 +12,19 @@ $font-primary: 'EB Garamond', serif;
 $white: #fff;
 $black: #303030;
 $black2: black;
-$red1: #8B1900;
+$red1: #5f025a;
 
 $primary: #303030;
 $secondary: black;
-$tertiary: #8B1900;
+$tertiary: #5f025a;
 $quarternary: #79efb4;
 
 
 @mixin gradient-background(){
-	background: #8B1900;
-	background: -moz-linear-gradient(-45deg, #8B1900 0%, #303030 50%, #8B1900 100%);
-	background: -webkit-linear-gradient(-45deg, #8B1900 0%, #303030 50%, #8B1900 100%);
-	background: linear-gradient(135deg, #8B1900 0%, #303030 50%, #8B1900 100%);
+	background: #5f025a;
+	background: -moz-linear-gradient(-45deg, #5f025a 0%, #303030 50%, #5f025a 100%);
+	background: -webkit-linear-gradient(-45deg, #5f025a 0%, #303030 50%, #5f025a 100%);
+	background: linear-gradient(135deg, #5f025a 0%, #303030 50%, #5f025a 100%);
 
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#448ef6', endColorstr='#af05a9', GradientType=1 );
 }

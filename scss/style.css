@@ -9685,8 +9685,8 @@ h1, h2, h3, h4, h5,
   bottom: 0;
   content: '';
   opacity: .97;
-  background: #8B1900;
-  background: linear-gradient(135deg, #8B1900 0%, #303030 50%, #8B1900 100%);
+  background: #5f025a;
+  background: linear-gradient(135deg, #5f025a 0%, #303030 50%, #5f025a 100%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#448ef6', endColorstr='#af05a9', GradientType=1 );
 }
 
@@ -10100,11 +10100,11 @@ h1, h2, h3, h4, h5,
 }
 
 .services .icon.color-3 {
-  background: #ff7658;
+  background: #fb32f0;
 }
 
 .services .icon.color-3 span {
-  color: #8B1900;
+  color: #5f025a;
 }
 
 .services .icon.color-3:before {
@@ -10113,7 +10113,7 @@ h1, h2, h3, h4, h5,
   height: 0;
   border-style: solid;
   border-width: 0 45px 20px 45px;
-  border-color: transparent transparent #ff7658 transparent;
+  border-color: transparent transparent #fb32f0 transparent;
 }
 
 .services .icon.color-3:after {
@@ -10122,7 +10122,7 @@ h1, h2, h3, h4, h5,
   height: 0;
   border-style: solid;
   border-width: 20px 45px 0 45px;
-  border-color: #ff7658 transparent transparent transparent;
+  border-color: #fb32f0 transparent transparent transparent;
 }
 
 .services .icon.color-4 {
@@ -10179,8 +10179,8 @@ h1, h2, h3, h4, h5,
   background-position: center center;
   position: relative;
   padding: 10em 0;
-  background: #8B1900;
-  background: linear-gradient(135deg, #8B1900 0%, #303030 50%, #8B1900 100%);
+  background: #5f025a;
+  background: linear-gradient(135deg, #5f025a 0%, #303030 50%, #5f025a 100%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#448ef6', endColorstr='#af05a9', GradientType=1 );
 }
 
@@ -10835,7 +10835,7 @@ textarea.form-control {
 }
 
 .ftco-counter {
-  background: #8B1900;
+  background: #5f025a;
   padding: 10em 0;
 }
 
