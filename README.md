@@ -22,3 +22,29 @@
 
 ## Section 5 - Summary 
 - This was fun to put together and enjoyed it greatly! 
+
+
+
+
+
+
+
+
+## Section 1 - Overview 
+
+
+
+## Section 2 - Purpose 
+ 
+
+
+## Section 3 - Directions
+
+
+
+## Section 4 - Notes 
+
+
+
+## Section 5 - Summary 
+- This was fun to put together and enjoyed it greatly! 
